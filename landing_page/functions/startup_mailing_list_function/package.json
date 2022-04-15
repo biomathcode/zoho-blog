@@ -1,0 +1,10 @@
+{
+	"name": "startup_mailing_list_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "pratik15@zohomail.in",
+	"dependencies": {
+		"express": "^4.17.3",
+		"zcatalyst-sdk-node": "latest"
+	}
+}

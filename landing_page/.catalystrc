@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "782000000002010",
+      "name": "startup-mailing-list",
+      "domain": {
+        "id": "50007938202",
+        "name": "startup-mailing-list-60014125031.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "60014125031",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

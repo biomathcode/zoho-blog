@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "startup_mailing_list_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}
